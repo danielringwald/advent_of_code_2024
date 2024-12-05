@@ -1,5 +1,4 @@
 import re
-import sys
 
 data_file = "day3_test.txt"
 data_file = "day3.txt"
